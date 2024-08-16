@@ -3,7 +3,9 @@
         "title": "Update that is real",
         "description": "Real update real",
 
-        "Additions": "Even more nothing"
+        "Additions": [
+            "Even more nothing"
+        ]
     },
     "1.0.0": {
         "title": "THIS IS NOT LOCAL!!! THIS WAS GOTTEN FROM GITHUB'S SERVERS!!!",
