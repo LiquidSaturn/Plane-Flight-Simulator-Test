@@ -1,4 +1,12 @@
 {
+    "2.1.1": {
+        "title": "Added Github Link",
+        "description": "Hadn't done that yet lol",
+        
+        "Additions": [
+            "Mod will now self update"
+        ]
+    },
     "2.1.0": {
         "title": "Added new file",
         "description": "Very scary",
