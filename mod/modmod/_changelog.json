@@ -1,4 +1,12 @@
 {
+    "2.1.0": {
+        "title": "Added new file",
+        "description": "Very scary",
+
+        "Additions": [
+            "New file (very scary)"
+        ]
+    },
     "2.0.0": {
         "title": "Overhaul ooooo",
         "description": "Update that does nothing except change the position of things to break backwards compatibility mwahahahahaha!!!!",
