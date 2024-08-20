@@ -1,4 +1,12 @@
 {
+    "2.0.0": {
+        "title": "Overhaul ooooo",
+        "description": "Update that does nothing except change the position of things to break backwards compatibility mwahahahahaha!!!!",
+
+        "Adjustments": [
+            "Moved everything"
+        ]
+    },
     "1.2.0": {
         "title": "Update that is realer",
         "description": "Really in-depth description of super huge big update of all time",
