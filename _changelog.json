@@ -1,4 +1,12 @@
 {
+    "1.2.0": {
+        "title": "Update that is realer",
+        "description": "Really in-depth description of super huge big update of all time",
+
+        "Additions": [
+            "Really unnecessarily long change message put in to test shit wowiee"
+        ]
+    },
     "1.1.0": {
         "title": "Update that is real",
         "description": "Real update real",
