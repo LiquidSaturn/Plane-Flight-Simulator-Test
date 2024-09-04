@@ -1,4 +1,15 @@
 {
+    "3.0.0": {
+        "title": "Awesome update",
+        "description": "Removed everything and added the single best mod mural known to man",
+
+        "Additions": [
+            "Mod mural"
+        ],
+        "Removals": [
+            "Everything else"
+        ]
+    },
     "2.1.1": {
         "title": "Added Github Link",
         "description": "Hadn't done that yet lol",

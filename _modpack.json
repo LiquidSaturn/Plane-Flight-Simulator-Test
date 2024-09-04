@@ -1,0 +1,17 @@
+{
+    "texts": [],
+    "images": [
+        {
+            "path": "modpack/funny circle.png",
+            "offsets": [-50, -50],
+            "alignment": "topleft",
+            "z_index": 1
+        },
+        {
+            "path": "modpack/funny circle.png",
+            "offsets": [40, 20],
+            "alignment": "topleft",
+            "z_index": 1
+        }
+    ]
+}
